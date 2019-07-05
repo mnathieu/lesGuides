@@ -1,0 +1,4 @@
+{ "AccessControl" :
+	{ "Scribe" : [ "UserName", "PASSWORD" ] },
+	{ "Gmail" : [ "UserName", "PASSWORD" ] }
+}
