@@ -1,4 +1,5 @@
-{ "AccessControl" :
-	{ "Scribe" : [ "UserName", "PASSWORD" ] },
-	{ "Gmail" : [ "UserName", "PASSWORD" ] }
+{ "AccessControl" : {
+	"Scribe" : [ "UserName", "PASSWORD" ] ,
+	"Gmail" : [ "UserName", "PASSWORD" ] 
+	}
 }
